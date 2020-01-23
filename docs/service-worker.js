@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.34b14dc7037979650725ba0a9ba6db12.js"
+  "/precache-manifest.edc4606597b925765cbbef69dc960e42.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue-event-page"});
+workbox.core.setCacheNameDetails({prefix: "geocamp-2020"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

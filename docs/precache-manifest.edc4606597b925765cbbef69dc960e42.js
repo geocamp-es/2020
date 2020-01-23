@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d752ab73b527e2ae1fc6",
+    "revision": "e885477f537297f9b62c",
     "url": "/css/about.cf3a49e8.css"
   },
   {
-    "revision": "16e62c4b0f5a341ca00e",
-    "url": "/css/app.81b39bea.css"
+    "revision": "cecd25381862c6c1481e",
+    "url": "/css/app.93d565df.css"
   },
   {
     "revision": "f40889caa25956ef4d27c2aadc4fbe13",
@@ -128,23 +128,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logos/logo-pulpo-azul.svg"
   },
   {
-    "revision": "75d788817e40debfb726546fa6b08688",
+    "revision": "a7051c662ee6abf783a3357a619c1ddd",
     "url": "/index.html"
   },
   {
-    "revision": "d752ab73b527e2ae1fc6",
-    "url": "/js/about.b2b852bd.js"
+    "revision": "e885477f537297f9b62c",
+    "url": "/js/about.34ce746d.js"
   },
   {
-    "revision": "16e62c4b0f5a341ca00e",
-    "url": "/js/app.e41789d7.js"
+    "revision": "cecd25381862c6c1481e",
+    "url": "/js/app.05b0d0f5.js"
   },
   {
-    "revision": "faecb8c1d3310ad39373",
-    "url": "/js/chunk-vendors.fcd6206a.js"
+    "revision": "9f7d8af0c0be8a966146",
+    "url": "/js/chunk-vendors.e3515abb.js"
   },
   {
-    "revision": "31b313c4fa5e98b1a81a0e98d512fa09",
+    "revision": "ad766cd074bf8695c62db13a69068c64",
     "url": "/manifest.json"
   },
   {
