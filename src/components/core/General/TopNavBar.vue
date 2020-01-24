@@ -6,7 +6,7 @@
       <li><a href="/#Información">Información</a></li>
       <li><a href="/#Patrocinio">Patrocinio</a></li>
       <li><a href="/#Ediciones">Ediciones</a></li>
-      <li><a href="/codigo-conducta">Conducta</a></li>
+      <li><router-link to="/codigo-conducta">Conducta</router-link></li>
     </ul>
 
     <button class="TopNavBar__Button" @click="onOpen">{{buttonContent}}</button>

@@ -1,7 +1,7 @@
 <template>
-  <a href="/" class="HomeButton" role="button">
+  <router-link to="/" class="HomeButton" role="button">
     <img src="/img/logos/logo-pulpo-azul.svg" alt="Geocamp logo" />
-  </a>
+  </router-link>
 </template>
 
 <script lang="ts">
